@@ -1,7 +1,7 @@
 import socket
 import threading
 
-HOST = '172.20.75.241'
+HOST = 'IP'
 PORT = 5000
 
 game_board = [' '] * 9
