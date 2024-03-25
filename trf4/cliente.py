@@ -1,6 +1,6 @@
 import socket
 
-HOST = '172.20.75.241'
+HOST = 'IP'
 PORT_N1 = 5000
 PORT_N2 = 5001
 
