@@ -1,7 +1,7 @@
 import socket
 import threading
 
-HOST = '172.20.75.241'
+HOST = 'IP'
 PORT = 5001
 MAX_CLIENTS = 2
 
